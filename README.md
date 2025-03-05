@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Pythone coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... boyan.bk@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... Mr.
 - ⚡ Fun fact: ... I just love Pandas 
 
 <!---
