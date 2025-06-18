@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... boyan.bk@gmail.com
 - 😄 Pronouns: ... Mr.
-- ⚡ Fun fact: ... I just love Pandas 
+- ⚡ Fun fact: ... I just love Pandas
+
+- "SAP EWM Administrator | Python Learner | Warehouse Analytics | Power BI Enthusiast"
 
 <!---
 poki224/poki224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
